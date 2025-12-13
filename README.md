@@ -1,16 +1,15 @@
-## Hi there 👋
+Applied Data Science graduate student focusing on
+sports analytics, large-scale public datasets,
+and interactive data applications.
 
-<!--
-**Prodoorknob/Prodoorknob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests:
+- Sports analytics (NFL, basketball)
+- Data visualization & storytelling
+- Scalable data pipelines
 
-Here are some ideas to get you started:
+Selected work:
+- NFL Tracking Data Analysis
+- Intent Quotient: Cricket Batting Analysis
+- Agricultural Data Analysis Dashboard  
+- IGDB Game Search Engine and Recommendation System  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
