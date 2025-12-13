@@ -3,7 +3,7 @@ sports analytics, large-scale public datasets,
 and interactive data applications.
 
 Interests:
-- Sports analytics (NFL, basketball)
+- Sports analytics (Cricket, NFL, Formula One)
 - Data visualization & storytelling
 - Scalable data pipelines
 
