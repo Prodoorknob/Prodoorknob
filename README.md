@@ -7,9 +7,16 @@ Interests:
 - Data visualization & storytelling
 - Scalable data pipelines
 
+Key technologies:
+- Python (pandas, NumPy, scikit-learn)
+- Data visualization (Plotly, Dash, Matplotlib)
+- Applied analytics & metric design
+- Public and sports datasets (USDA, NFL tracking, cricket ball-by-ball)
+- Lightweight deployment (Streamlit, Dash)
+
 Selected work:
-- NFL Tracking Data Analysis
-- Intent Quotient: Cricket Batting Analysis
-- Agricultural Data Analysis Dashboard  
-- IGDB Game Search Engine and Recommendation System  
+- NFL Tracking Data Analysis (https://www.kaggle.com/code/vedirerr/bdb-2026)
+- Intent Quotient: Cricket Batting Analysis (https://github.com/Prodoorknob/Intent_Quotinet_Cricket)
+- Agricultural Data Analysis Dashboard (https://agricultural-data-analysis.onrender.com)
+- IGDB Game Search Engine and Recommendation System (https://igdbapp-working-recommendation.streamlit.app/)
 
