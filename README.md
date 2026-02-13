@@ -17,6 +17,6 @@ Key technologies:
 Selected work:
 - NFL Tracking Data Analysis (https://www.kaggle.com/code/vedirerr/bdb-2026)
 - Intent Quotient: Cricket Batting Analysis (https://github.com/Prodoorknob/Intent_Quotinet_Cricket)
-- Agricultural Data Analysis Dashboard (https://agricultural-data-analysis.onrender.com)
+- Agricultural Data Analysis Dashboard (https://stats-usda.vercel.app/)
 - IGDB Game Search Engine and Recommendation System (https://igdbapp-working-recommendation.streamlit.app/)
 
